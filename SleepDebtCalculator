@@ -1,3 +1,5 @@
+//Functions Practice
+
 const getSleepHours = day => {
   switch(day) {
     case 'Monday':

@@ -1,3 +1,5 @@
+//Functions Practice
+
 const getUserChoice = userChoice => {
   userChoice = userChoice.toLowerCase();
   if (userChoice === 'rock' || userChoice === 'paper' || userChoice === 'scissor') {

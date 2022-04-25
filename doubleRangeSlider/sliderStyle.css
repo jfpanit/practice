@@ -45,6 +45,7 @@ input[type="range"] {
 }
 
 .slider-track {
+  background-color: #dadae5;
   width: 100%;
   height: 5px;
   position: absolute;
@@ -55,6 +56,7 @@ input[type="range"] {
 }
 
 .slider-track2 {
+  background-color: #dadae5;
   width: 100%;
   height: 5px;
   position: absolute;

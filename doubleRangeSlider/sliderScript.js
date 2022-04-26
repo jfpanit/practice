@@ -36,10 +36,6 @@ function fillColor() {
 //slide one end
 
 /*slide two - breaks the code for slide one and is nonfunctioning for slide two
-window.onload = function () {
-  slideThree();
-  slideFour();
-}
 
 let sliderThree = document.getElementById("slider-3");
 let sliderFour = document.getElementById("slider-4");
